@@ -31,7 +31,7 @@ export default function Contact() {
             <img
                 className="object-cover object-center rounded"
                 alt="hero"
-                src="./me.jpg"
+                src="./my-react-cv/public/me.jpg"
             />
             </div>
         </div>
